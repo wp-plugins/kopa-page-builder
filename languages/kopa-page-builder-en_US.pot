@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kopa Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-17 23:17+0700\n"
+"PO-Revision-Date: 2015-05-17 23:17+0700\n"
+"Last-Translator: thanh4890 <thanh4890@gmail.com>\n"
+"Language-Team: Kopasoft\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: kopa-page-builder.php:61
+msgid "Page builder"
+msgstr ""
+
+#: kopa-page-builder.php:70
+msgid "Use sticky toolbar ?"
+msgstr ""
+
+#: kopa-page-builder.php:217
+msgid "Media center"
+msgstr ""
+
+#: kopa-page-builder.php:218
+msgid "Choose image"
+msgstr ""
+
+#: kopa-page-builder.php:219 kopa-page-builder.php:694
+msgid "Loading..."
+msgstr ""
+
+#: kopa-page-builder.php:220 kopa-page-builder.php:265
+#: kopa-page-builder.php:704 kopa-page-builder.php:733
+#: kopa-page-builder.php:800
+msgid "Save"
+msgstr ""
+
+#: kopa-page-builder.php:221
+msgid "Saving..."
+msgstr ""
+
+#: kopa-page-builder.php:222 kopa-page-builder.php:267
+msgid "Hide preview"
+msgstr ""
+
+#: kopa-page-builder.php:223
+msgid "Show preview"
+msgstr ""
+
+#: kopa-page-builder.php:224
+msgid "Are you sure to remove this widget ?"
+msgstr ""
+
+#: kopa-page-builder.php:233
+msgid "Page Builder"
+msgstr ""
+
+#: kopa-page-builder.php:251
+msgid "Loading.."
+msgstr ""
+
+#: kopa-page-builder.php:269
+msgid "Customize"
+msgstr ""
+
+#: kopa-page-builder.php:335 kopa-page-builder.php:390
+msgid "Add widget"
+msgstr ""
+
+#: kopa-page-builder.php:356 kopa-page-builder.php:411
+#: kopa-page-builder.php:904
+msgid "Edit"
+msgstr ""
+
+#: kopa-page-builder.php:357 kopa-page-builder.php:412
+#: kopa-page-builder.php:905
+msgid "Delete"
+msgstr ""
+
+#: kopa-page-builder.php:502
+msgid "Widget"
+msgstr ""
+
+#: kopa-page-builder.php:561
+msgid "Progressing.."
+msgstr ""
+
+#: kopa-page-builder.php:567
+msgid "Avaiable Widgets"
+msgstr ""
+
+#: kopa-page-builder.php:568 kopa-page-builder.php:690
+#: kopa-page-builder.php:732 kopa-page-builder.php:799
+msgid "Close"
+msgstr ""
+
+#: kopa-page-builder.php:654
+msgid "use"
+msgstr ""
+
+#: kopa-page-builder.php:689
+msgid "Widget Name"
+msgstr ""
+
+#: kopa-page-builder.php:1141
+msgid "Upload"
+msgstr ""
+
+#: kopa-page-builder.php:1142
+msgid "Reset"
+msgstr ""
+
+#: kopa-page-builder.php:1159
+msgid "-- select icon --"
+msgstr ""
